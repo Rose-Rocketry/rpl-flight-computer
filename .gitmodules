@@ -1,0 +1,6 @@
+[submodule "rpl-fc-hardware"]
+	path = rpl-fc-hardware
+	url = git@github.com:Rose-Rocketry/rpl-fc-hardware.git
+[submodule "rpl-fc-software"]
+	path = rpl-fc-software
+	url = git@github.com:Rose-Rocketry/rpl-fc-software.git
